@@ -1,0 +1,18 @@
+current directory: /home/deepak/Desktop/work/app/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+/home/deepak/.rvm/rubies/ruby-2.6.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/deepak/Desktop/work/app/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231206-3939-22yvl3 sitelibdir\=./.gem.20231206-3939-22yvl3 clean
+
+current directory: /home/deepak/Desktop/work/app/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231206-3939-22yvl3 sitelibdir\=./.gem.20231206-3939-22yvl3
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/deepak/Desktop/work/app/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231206-3939-22yvl3 sitelibdir\=./.gem.20231206-3939-22yvl3 install
+/usr/bin/install -m 0755 cparse.so ./.gem.20231206-3939-22yvl3/racc
+
+current directory: /home/deepak/Desktop/work/app/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231206-3939-22yvl3 sitelibdir\=./.gem.20231206-3939-22yvl3 clean

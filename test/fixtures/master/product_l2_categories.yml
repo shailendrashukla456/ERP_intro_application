@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product_l1_category: one
+  l2_category_name: MyString
+  l2_category_image: MyString
+
+two:
+  product_l1_category: two
+  l2_category_name: MyString
+  l2_category_image: MyString
